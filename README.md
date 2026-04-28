@@ -1,1 +1,16 @@
-# Olist_Cohort_Analysis
+# Olist 코호트 분석
+
+## 프로젝트 개요
+- 목적:
+- 데이터: Kaggle Olist 브라질 이커머스 데이터셋
+- 환경: BigQuery
+
+## 분석 주제
+-
+
+## 데이터 구조
+-
+
+## 분석 과정
+- Step 1: 고객별 첫 구매월 추출
+- Step 2: (진행 예정)
